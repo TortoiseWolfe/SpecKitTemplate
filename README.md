@@ -1,5 +1,14 @@
 # SpecKit Project Template
 
+Constitution  
+Specify  
+Clarify  
+Plan  
+Checklist  
+Task  
+Analyze  
+Implement  
+
 This template provides a Docker-based setup for [GitHub SpecKit](https://github.com/github/spec-kit) - a spec-driven development toolkit that helps you create, plan, and implement features using AI-assisted workflows.
 
 ## What This Template Provides
